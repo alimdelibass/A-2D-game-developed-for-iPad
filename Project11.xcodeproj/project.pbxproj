@@ -14,6 +14,7 @@
 		478B6F8F2B44F56B0053A49D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 478B6F8D2B44F56B0053A49D /* Main.storyboard */; };
 		478B6F912B44F56D0053A49D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 478B6F902B44F56D0053A49D /* Assets.xcassets */; };
 		478B6F942B44F56D0053A49D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 478B6F922B44F56D0053A49D /* LaunchScreen.storyboard */; };
+		478B6F9B2B4527970053A49D /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 478B6F9A2B4527970053A49D /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		478B6F8E2B44F56B0053A49D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		478B6F902B44F56D0053A49D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		478B6F932B44F56D0053A49D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		478B6F9A2B4527970053A49D /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				478B6F8D2B44F56B0053A49D /* Main.storyboard */,
 				478B6F902B44F56D0053A49D /* Assets.xcassets */,
 				478B6F922B44F56D0053A49D /* LaunchScreen.storyboard */,
+				478B6F9A2B4527970053A49D /* FireParticles.sks */,
 			);
 			path = Project11;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				478B6F8F2B44F56B0053A49D /* Main.storyboard in Resources */,
 				478B6F862B44F56B0053A49D /* GameScene.sks in Resources */,
+				478B6F9B2B4527970053A49D /* FireParticles.sks in Resources */,
 				478B6F912B44F56D0053A49D /* Assets.xcassets in Resources */,
 				478B6F942B44F56D0053A49D /* LaunchScreen.storyboard in Resources */,
 			);
